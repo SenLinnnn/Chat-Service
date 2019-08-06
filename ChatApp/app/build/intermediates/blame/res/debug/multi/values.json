@@ -1,0 +1,2621 @@
+[
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 44,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 61,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 61,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 48,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 54,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 69,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 43,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 39,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 53,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 53,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 43,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 45,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 45,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 52,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 68,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 62,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 44,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 44,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 61,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 61,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 48,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 54,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 69,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 43,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 39,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 53,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 53,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 43,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 45,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 45,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 52,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 68,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 62,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 44,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 44,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 61,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 61,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 48,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 54,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 69,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 43,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 39,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 53,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 53,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 43,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 45,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 45,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 52,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 68,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 62,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 44,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 44,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 61,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 61,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 48,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 54,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 69,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 43,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 39,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 53,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 53,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 43,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 45,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 45,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 52,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 68,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 62,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 44,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 44,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 61,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 61,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 48,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 54,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 69,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 43,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 39,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 53,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 53,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 43,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 45,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 45,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 52,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 68,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 62,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 44,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 44,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 61,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 61,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 46,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 48,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 54,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 69,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 43,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 39,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 53,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 53,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 43,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 45,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 45,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 52,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 68,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 62,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 44,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    }
+]

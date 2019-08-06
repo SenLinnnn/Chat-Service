@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/activity_message_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peer_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_peer_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peerlist.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\peerlist.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peerlist.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\peerlist.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peer_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\activity_peer_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peer_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\activity_peer_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peer_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_peer_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peerlist.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\peerlist.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/activity_peer_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/activity_peer_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peerlist.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\peerlist.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peerlist.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\peerlist.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/res/merged/debug/layout/peerlist.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/layout/peerlist.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peer_list.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\activity_peer_list.xml"
+    },
+    {
+        "merged": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

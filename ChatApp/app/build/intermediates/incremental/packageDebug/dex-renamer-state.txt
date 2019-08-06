@@ -1,0 +1,7 @@
+#Sun Nov 05 21:10:44 EST 2017
+base.0=/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_676ecb2519b957b4a8f6992dd2b9eeeb2321b0c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e3a14e258c6b5abbb05ff37005350f1ccbaa2e1/classes.dex
+base.1=/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e3a14e258c6b5abbb05ff37005350f1ccbaa2e1
+file.0=/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_676ecb2519b957b4a8f6992dd2b9eeeb2321b0c9/classes.dex

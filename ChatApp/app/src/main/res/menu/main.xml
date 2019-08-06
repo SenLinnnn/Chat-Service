@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/show_peers"
+        android:showAsAction="ifRoom"
+        android:title="@string/peers"/>
+
+    <item
+        android:id="@+id/client_name_menu"
+        android:showAsAction="ifRoom"
+        android:title="@string/client_name"/>
+
+
+</menu>

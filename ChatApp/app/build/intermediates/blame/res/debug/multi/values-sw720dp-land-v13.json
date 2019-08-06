@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\sanjana\\AndroidStudioProjects\\MSlab5\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp2mine\\ChatApp\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp1\\ChatApp\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/C:\\Users\\DV6\\AndroidStudioProjects\\ChatApp-2016-03-04\\ChatApp\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    }
+]

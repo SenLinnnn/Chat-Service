@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6e3a14e258c6b5abbb05ff37005350f1ccbaa2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0d5729f79c0fa57371f7aa7e4c84ce0bfeb2731">
+        <dex dex="/Users/sen/Downloads/Assignment5-Code/ChatApp1/ChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_676ecb2519b957b4a8f6992dd2b9eeeb2321b0c9/classes.dex" />
+    </item>
+
+</items>
